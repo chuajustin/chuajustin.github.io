@@ -2,98 +2,140 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Data in Action | Jayme Zhang</title>
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-<link rel="icon" href="images/J_hexagon_logo.png" type="image/x-icon">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="./style.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
 </head>
 <body>
-    <!-- The sidebar -->
-    <div class="container">
-        <aside class="sidebar">
-            <img src="images/headshot_round.png" alt="Profile Photo" class="profile-photo">
-            <h2 class="greeting">Hello, I'm Jayme!</h2>
-            <p class="description">Having spent the past decade igniting a passion for Math in students, 
-                I recently completed the Data Science Immersive bootcamp at General Assembly Singapore. 
-                While I love to simplify complex topics and share data-driven insights, 
-                I'm also drawn to the intricacies of machine learning and optimizing models. 
-                I'm eager to leverage this blend of skills to contribute meaningful work and make a positive impact.</p>
-            <ul class="contact-icons">
-                <li><a href="https://www.linkedin.com/in/jaymezhangjy/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-                <li><a href="https://github.com/jaymezhangjy" target="_blank"><i class="fab fa-github"></i></a></li>
-                <li><a href="mailto:jaymezhangjy@gmail.com"><i class="fas fa-envelope"></i></a></li>
+    <div id="top"></div>
+    <header>
+        <div class="content">
+            <span class="logo"><a href="#">Never Mind</a></span>
+            <ul>
+                <li><a href="#about-me">about me</a></li>
+                <li><a href="#projects">projects</a></li>
+                <li><a href="#skills">my skills</a></li>
             </ul>
-        </aside>
-    
-    <!-- The content -->
-    <main class="content">
-        <header class="site-header">
-            <h1>Data in Action</h1>
-        </header>
-        <article class="post">
-            <div class="post-header">
-                <div class="post-logo">
-                    <img src="images/hanzi_hero_icon.png" alt="Post Icon">
-                </div>
-                <h2 class="post-title"><a href="https://github.com/jaymezhangjy/hanzi_hero">Hanzi Hero: Empowering Kids to Master Chinese Characters</a></h2>
-            </div>    
-            <p class="post-description">This project aims to build an image recognition model for handwritten Chinese characters and 
-    deploy it to Streamlit, so that we can assist students and non-Chinese learners better with their learning of the Chinese language.
-    The <a href="https://github.com/jaymezhangjy/hanzi_hero">first repository</a> provides all the processes and codes needed to build the image recognition model, 
-    whereas the <a href="https://github.com/jaymezhangjy/hanzi_hero_streamlit">second repository</a> focuses on deploying the trained model to a user interface using Streamlit Cloud. 
-    The user interface can be accessed via this link: <a href="https://hanzi-hero.streamlit.app/">https://hanzi-hero.streamlit.app/</a>. </p>
-        </article>
-
-        <article class="post">
-            <div class="post-header">
-                <div class="post-logo">
-                    <img src="images/heartbeat_logo.png" alt="Post Icon">
-                </div>
-                <h2 class="post-title"><a href="https://github.com/jaymezhangjy/in_a_heartbeat">In A Heartbeat: Prediction of Heart Disease Risk for Early Detection</a></h2>
-            </div>    
-            <p class="post-description">Heart disease remains the leading cause of death in the United States, a concerning statistic that has persisted for over a century. 
-            This project addresses this critical public health issue by developing a heart disease risk prediction model. 
-                Our primary objective is to raise awareness of this prevalent condition and encourage early detection, a crucial factor in mitigating risk. 
-                We utilized data from the <a href='https://www.cdc.gov/brfss/annual_data/annual_2022.html'>2022 US Behavioral Risk Factor Surveillance System (BRFSS)</a>, 
-                implementing rigorous data cleaning, pre-processing, and imputation techniques to address missing values. 
-                An interactive <a href='https://public.tableau.com/app/profile/jaymezhangjy/viz/InAHeartbeatPredictionofHeartDiseaseRiskforEarlyDetection/Analysis-HeartDisease'>Tableau dashboard</a> 
-                is available for further data exploration.</p>
-        </article>
-
-        <article class="post">
-            <div class="post-header">
-                <div class="post-logo">
-                    <img src="images/reddit_scams_logo.png" alt="Post Icon">
-                </div>
-                <h2 class="post-title"><a href="https://github.com/jaymezhangjy/reddit_scams">Reddit Scams: Are We Vulnerable?</a></h2>
-            </div>    
-            <p class="post-description">The alarming rise in online scams demands proactive solutions within communities such as Reddit, and we believe that more can be done. 
-                Through the use of Natural Language Processing, we can develop a basic understanding of the linguistic red flags that might signal a potential scam.
-                By building a model to distinguish posts from legitimate (<a href='https://www.reddit.com/r/RandomKindness/'>r/RandomKindness</a>) and ill-intentioned (<a href='https://www.reddit.com/r/Scams/'>r/Scams</a>) subreddits, 
-                we aim to empower Reddit moderators to efficiently identify and remove harmful content, ultimately safeguarding their communities.</p>
-        </article>
-        <!-- Add more posts as needed -->
-        <!-- <article class="post">
-            <div class="post-header">
-                <div class="post-logo">
-                    <img src="path/to/icon.jpg" alt="Post Icon">
-                </div>
-                <h2 class="post-title"><a href="path/to/post.html">Sample Post Title</a></h2>
+        </div>
+    </header>
+    <div class="container">
+    <main>
+        <div class="left">
+            <h1>Hey, I'm<br>
+                Anas Khan
+            </h1>
+            <h2>
+                Frontend Developer:) 
+            </h2>
+            <div class="btn">
+                <button class="cv"><a id="pdf" href="https://anaskhan28.github.io/resume/" target="_fblank">Download Resume</a></button>
+                <button class="contact"><a href="#contacts">Get in Touch</a></button>
             </div>
-            <p class="post-description">This is a sample post excerpt. You can customize this content as needed.</p>
-        </article> -->
-        <!-- Add more posts as needed -->
-            
+
+        </div>
+        <div class="right">
+            <img src="./04 Portfolio/assets/images/imagem.gif" alt="">
+        </div>
     </main>
+    <section class="about-me">
+        <h2 id="about-me" class="target">About me</h2>
+        <p>I am a student of Government Polytechninc Mumbai, pursing Diploma in Computer Engineering. 
+            I’m versatile in learning & expeirencing different fields. 
+            I have a keen interest in Finance & currently exploaring Stock Market & Crypto World. 
+            I like designing & building products that positively impact the lives of users. 
+            I don't associate myself with specific tools and technology. 
+            They are merely the means to build. This mindset has helped me be a quick learner and concentrate 
+            more on solving the problem at hand.</p>
+    </section>
+    <section class="contacts" id="contacts">
+        <div class="contact">
+            <div class="icon">
+                <i class="far fa-smile"></i>
+            </div>
+            <span class="title">My name</span>
+            <span class="description">Anas Khan</span>
+        </div>
+        <div class="contact">
+            <div class="icon">
+                <i class="far fa-envelope"></i>
+            </div>
+            <span class="title"><a href="mailto:anasskhan28@gmail.com">E-mail</a></span>            
+            <span class="description">anasskhan28@gmail.com</span>            
+        </div>
+        <div class="contact">
+            <div class="icon">
+                <i class="fab fa-instagram"></i>
+            </div>
+            <span class="title"><a href="https://instagram.com/anaskhan.28" target="_fblank">Instagram</a></span>
+            <span class="description">@anaskhan28</span>
+        </div>
+        <div class="contact">
+            <div class="icon">
+                <i class="fab fa-twitter"></i>
+            </div>
+            <span class="title"><a href="https://twitter.com/anaskhan_28" target="_fblank">Twitter</a></span>
+            <span class="description">@anaskhan_28</span>
+        </div>
+    </section>
+    <section class="projects">
+    <h2 id="projects" class="target">Projects</h2>
+    <div class="cards">
+        <div class="card">
+            <div class="img-project">
+                <img src="https://picsum.photos/300/130?random=1" alt="">
+            </div>
+            <div class="description-project">
+                <span class="title-project">wait I'll upload soon</span>
+                <span class="tag-project">Technologies: HTML5, CSS, JS</span>
+            </div>
+            </div>
+        <div class="card">
+            <div class="img-project">
+                <img src="https://picsum.photos/300/130?random=2" alt="">
+            </div>
+            <div class="description-project">
+                <span class="title-project">wait I'll upload soon</span>
+                <span class="tag-project">Technologies: HTML5, CSS, JS</span>
+            </div>
+            </div>
+        <div class="card">
+            <div class="img-project">
+                <img src="https://picsum.photos/300/130?random=3" alt="">
+            </div>
+            <div class="description-project">
+                <span class="title-project">wait I'll upload soon</span>
+                <span class="tag-project">Technologies: HTML5, CSS, JS</span>
+            </div>
+        </div>
     </div>
-
-    <!-- The footer -->
-    <footer class="site-footer">
-        <div class="container">
-            <p>&copy; 2024 Jayme Zhang. All rights reserved.</p>
+    </section>
+    <section class="skills">
+        <h2 id="skills" class="target" >My skills</h2>
+        <div class="cards-skills">
+            <div class="card-skill"><i class="fab fa-html5"></i></div>
+            <div class="card-skill"><i class="fab fa-css3-alt"></i></div>
+            <div class="card-skill"><i class="fab fa-js"></i></div>
+            <div class="card-skill"><i class="fab fa-java"></i></div>
+            <div class="card-skill"><i class="fab fa-python"></i></div>
+            <div class="card-skill"><i class="fab fa-figma"></i></div>
+        </div>
+    </section>
+    </div>
+    <footer>
+        <span>
+            <div class="card-serve">
+                <i class="fas fa-code"></i>
+             Made by <a href="https://www.github.com/anaskhan28" target="_blank">
+                
+                 Anas Khan</a>
+        </span>
     </footer>
-
+    <div class="goto-top">
+        <a href="#top"><i class="fas fa-arrow-up"></i></a>
+      </div>
 </body>
 </html>
-
