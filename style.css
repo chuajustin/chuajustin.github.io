@@ -216,8 +216,6 @@ section.projects h2{
 }
 section.projects div.cards{
     display: flex;
-    justify-content: center;
-    align-items: center;
     gap: 45px;
 }
 section.projects div.card{
