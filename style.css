@@ -221,7 +221,7 @@ section.projects div.cards{
 }
 section.projects div.card{
     width: 350px;
-    height: 240px;
+    height: 300px;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -230,13 +230,6 @@ section.projects div.card{
     padding: 20px, 25px;
 }
 
-section.projects div.cards div.card div.img-project{
-    margin-top: 20px;
-    width: 300px;
-    height: 100px;
-    margin-bottom: 23px;
-    border: 1px solid var(--gray-200);
-}
 
 section.projects div.cards div.card div.description-project{
     width: 300px;
