@@ -359,11 +359,11 @@ div.goto-top i {
     }
     main .right{
         display: flex;
-        align-items: center;
+        align-items: left;
         flex-direction: column;
     }
     main .right img{
-        max-width: 70%;
+        max-width: 50%;
     }
     main .left h1{
         font-size: 1.5rem;
