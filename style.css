@@ -233,8 +233,7 @@ section.projects div.card{
 section.projects div.cards div.card div.img-project{
     margin-top: 20px;
     width: 300px;
-    height: 130px;
-    background-color: var(--dark);
+    height: 100px;
     margin-bottom: 23px;
     border: 1px solid var(--gray-200);
 }
