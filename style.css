@@ -224,6 +224,7 @@ section.projects div.card{
     height: 240px;
     display: flex;
     align-items: center;
+    flex-direction: column;
     background-color: var(--gray-400);
     border: 1px solid var(--gray-200);
     padding: 20px, 25px;
