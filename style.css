@@ -221,7 +221,7 @@ section.projects div.cards{
 }
 section.projects div.card{
     width: 350px;
-    height: 500px;
+    height: 400px;
     display: flex;
     align-items: center;
     flex-direction: column;
