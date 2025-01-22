@@ -9,6 +9,6 @@ PORTFOLIO CONSIST OF
 2. Dataset uses the past 6 years to predict to 2030.
 
 **PowerBI**
-1. Created a dashboard showcasing area charts, map, bar charts of movies and tv show of amazon prime (Using Kaggle Dataset)
-https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/data
+1. Created a dashboard showcasing area charts, map, bar charts of movies and tv show of amazon prime (Using this [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/data) Dataset)
+
 ![image](https://github.com/user-attachments/assets/e03f35bc-e39c-44b8-9c82-e6eddc275b1e)
