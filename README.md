@@ -11,5 +11,10 @@ PORTFOLIO CONSIST OF
 
 **PowerBI**
 1. Created a dashboard showcasing area charts, map, bar charts of movies and tv show of amazon prime (Using this [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/data) Dataset)
+2. The problems that they were trying to solve, hence created this dashboard:
+   - Finding out the total rating by show
+   - Genre by show
+   - Percentage of dominance by movies and TV shows
+   - Which release year(s) is the top for movies and tv shows
 
 ![image](https://github.com/user-attachments/assets/e03f35bc-e39c-44b8-9c82-e6eddc275b1e)
