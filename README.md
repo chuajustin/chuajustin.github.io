@@ -12,7 +12,7 @@ PORTFOLIO CONSIST OF
 - Genre distribution per title
 - Content type dominance (movies vs. TV shows)
 - Peak release years for both movies and TV shows
-3. Leveraged area charts, maps, and bar charts to create an intuitive and data-driven user experience.
+3. Leveraged pie charts, maps, and bar charts to create an intuitive and data-driven user experience.
 
 ![image](https://github.com/user-attachments/assets/e03f35bc-e39c-44b8-9c82-e6eddc275b1e)
 
