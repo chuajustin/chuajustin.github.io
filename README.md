@@ -9,12 +9,13 @@ PORTFOLIO CONSIST OF
 2. Data comprises of the past 6 years data extracted from their sustainability report to predict the projected emissions levels in 2030 and 2050.
 3. Project was built around the idea of letting companies visualize their forecasted emission output base on yearly emissions. 
 
-**PowerBI**
-1. Created a dashboard showcasing area charts, map, bar charts of movies and tv show of amazon prime (Using this [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/data) Dataset)
-2. The problems that they were trying to solve, hence created this dashboard:
-   - Finding out the total rating by show
-   - Genre by show
-   - Percentage of dominance by movies and TV shows
-   - Which release year(s) is the top for movies and tv shows
+**PowerBI Dashboard - Amazon Prime Video Analysis**
+1. Designed and developed an interactive Power BI dashboard using Amazon Prime content data from ([Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/data) Dataset) to support stakeholder insights and decision-making.
+2. Addressed key stakeholder objectives by visualizing:
+- Aggregate user ratings by show
+- Genre distribution per title
+- Content type dominance (movies vs. TV shows)
+- Peak release years for both movies and TV shows
+3. Leveraged area charts, maps, and bar charts to create an intuitive and data-driven user experience.
 
 ![image](https://github.com/user-attachments/assets/e03f35bc-e39c-44b8-9c82-e6eddc275b1e)
