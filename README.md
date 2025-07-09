@@ -1,6 +1,10 @@
 <h1> 📚 Justin's Portfolio </h1>
 
-* Welcome to my portfolio, below is a listen of projects that I have undertaken personally.
+Welcome to my portfolio, below is a listen of projects that I have undertaken personally.
+
+<h1> Table of Contents </h1>
+
+
 
 <h2> Forecasting Model/Machine Learning (Carbon Cast) </h2>
 
