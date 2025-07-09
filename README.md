@@ -4,7 +4,7 @@
 
 PORTFOLIO CONSIST OF
 
-<h1> **Forecasting Model/Machine Learning (Carbon Cast) </h2>
+<h2> Forecasting Model/Machine Learning (Carbon Cast) </h2>
 * A forecasting model that uses past data of companies carbon emission (Scope 1, Scope 2, Scope 3) respectively to forecast/predict their carbon emission output using scikit-learn machine learning library time-series model in python.
 * Data comprises of the past 6 years data extracted from their sustainability report to predict the projected emissions levels in 2030 and 2050.
 * (Project)[https://carbon-cast.streamlit.app] was built around the idea of letting companies visualize their forecasted emission output base on yearly emissions. 
