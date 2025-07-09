@@ -12,15 +12,17 @@
 
 * Designed and developed an interactive Power BI dashboard using Amazon Prime content data from [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/data) Dataset to support stakeholder insights and decision-making.
 * Addressed key stakeholder objectives by visualizing:
-* Aggregate user ratings by show
-- Genre distribution per title
-- Content type dominance (movies vs. TV shows)
-- Peak release years for both movies and TV shows
-* Leveraged pie charts, maps, and bar charts to create an intuitive and data-driven user experience.
+  - Aggregate user ratings by show
+  - Genre distribution per title
+  - Content type dominance (movies vs. TV shows)
+  - Peak release years for both movies and TV shows
+  - Leveraged pie charts, maps, and bar charts to create an intuitive and data-driven user experience.
+
 
 ![image](https://github.com/user-attachments/assets/e03f35bc-e39c-44b8-9c82-e6eddc275b1e)
 
 
-**Tableau Dashboard - Air Quality**
+<h2> Tableau Dashboard - Air Quality </h2>
+
 1. Public tableau dashboard of correlation of humidity and windspeed in different countries
 2. A fun little color coordinated air quality level using PM2.5 as the factor
