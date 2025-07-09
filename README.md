@@ -1,3 +1,7 @@
+<h1> 📚 Justin's Portfolio </h1>
+
+* Welcome to my portfolio, below is a listen of projects that I have undertaken personally.
+
 PORTFOLIO CONSIST OF
 
 **Forecasting Model/Machine Learning (Carbon Cast)**
