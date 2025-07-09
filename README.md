@@ -9,9 +9,10 @@
 - [Project](https://carbon-cast.streamlit.app) was built around the idea of letting companies visualize their forecasted emission output base on yearly emissions. 
 
 <h2> PowerBI Dashboard - Amazon Prime Video Analysis </h2>
+
 * Designed and developed an interactive Power BI dashboard using Amazon Prime content data from [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/data) Dataset to support stakeholder insights and decision-making.
 * Addressed key stakeholder objectives by visualizing:
-- Aggregate user ratings by show
+* Aggregate user ratings by show
 - Genre distribution per title
 - Content type dominance (movies vs. TV shows)
 - Peak release years for both movies and TV shows
