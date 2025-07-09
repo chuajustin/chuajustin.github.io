@@ -24,5 +24,7 @@
 
 <h2> Tableau Dashboard - Air Quality </h2>
 
-1. Public tableau dashboard of correlation of humidity and windspeed in different countries
-2. A fun little color coordinated air quality level using PM2.5 as the factor
+1. [Public tableau dashboard](https://public.tableau.com/app/profile/chua.justin8680/viz/CountriesHumidity_AirQualityLevels_WindSpeed/Countrieshumidity) of correlation of humidity and windspeed in different countries
+2. Color coordinated air quality level using PM2.5 as the factor
+
+![image](https://github.com/user-attachments/assets/e4d89447-a993-4e49-910d-f56c5fdee81d)
