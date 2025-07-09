@@ -5,7 +5,7 @@ Welcome to my portfolio, below is a listen of projects that I have undertaken pe
 <h2> Table of Contents </h2>
 
 * [Carbon Cast](https://github.com/chuajustin/chuajustin.github.io/blob/main/README.md#-forecasting-modelmachine-learning-carbon-cast-)
-* SQL
+* [SQL](https://github.com/chuajustin/sql)
 * [Power BI](https://github.com/chuajustin/chuajustin.github.io/blob/main/README.md#-powerbi---amazon-prime-video-analysis-)
 * [Tableau](https://github.com/chuajustin/chuajustin.github.io/blob/main/README.md#-tableau-dashboard---air-quality-)
 
