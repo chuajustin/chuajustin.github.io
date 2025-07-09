@@ -33,10 +33,9 @@ Welcome to my portfolio, below is a listen of projects that I have undertaken pe
 
 <h2> Tableau Dashboard - Air Quality </h2>
 
-* Analyzing the correlation of humidity and windspeed, and how it impacts each other in different country 
-* [Public tableau dashboard](https://public.tableau.com/app/profile/chua.justin8680/viz/CountriesHumidity_AirQualityLevels_WindSpeed/Countrieshumidity)
-* Color coordinated air quality level using PM2.5 as the factor
+* Analyzing the correlation of humidity and windspeed, and how it impacts each other in different country. 
+* [Public tableau dashboard](https://public.tableau.com/app/profile/chua.justin8680/viz/CountriesHumidity_AirQualityLevels_WindSpeed/Countrieshumidity).
+* Color coordinated air quality level using PM2.5 as the factor.
 
-* Dashboard
-  
+Dashboard  
 ![image](https://github.com/user-attachments/assets/e4d89447-a993-4e49-910d-f56c5fdee81d)
